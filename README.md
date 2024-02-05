@@ -8,13 +8,13 @@ Welcome to my GitHub profile! I'm a passionate web developer currently focused o
 - Open Source
 
 ## 🧑‍💻 Currently Learning
-I'm currently diving deep into backend development, exploring frameworks like Express.js and databases like MongoDB.
+I'm currently diving deep into backend development, exploring frameworks like Express.js and databases like MongoDB and Firebase🔥
 
 
 ## 🛠 Skills
 - HTML, CSS, JavaScript
 - Node.js and Express.js
-- Database: MongoDB
+- Database: MongoDB,Firebase🔥
 - RESTful API Design
 - Version Control: Git
 
