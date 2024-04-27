@@ -7,7 +7,10 @@ Web Developer🧑‍💻
 -------------
 
 I started my web development journey with a focus on frontend technologies, building responsive and interactive websites using HTML, CSS, and JavaScript. I then expanded my skills by learning ReactJS, and now I'm diving deep into backend development, exploring frameworks like Express.js and databases like MongoDB and Firebase to create robust, scalable web applications.
+## Goal:
 
+distinguishing between AI-generated and human-authored content has become an increasingly critical challenge. The AI Content Detector project aims to develop cutting-edge techniques and tools to address this issue, leveraging the power of machine learning and natural language processing.
+ 
 * 🌍  I'm based in INDIA
 * 🖥️  See my portfolio at [MyPortfolio](http://vamsiprofile.netlify.app)
 * ✉️  You can contact me at [brahmavamsi1234@gmail.com](mailto:brahmavamsi1234@gmail.com)
