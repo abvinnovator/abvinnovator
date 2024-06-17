@@ -12,7 +12,7 @@ I started my web development journey with a focus on frontend technologies, buil
 distinguishing between AI-generated and human-authored content has become an increasingly critical challenge. The AI Content Detector project aims to develop cutting-edge techniques and tools to address this issue, leveraging the power of machine learning and natural language processing.
  
 * 🌍  I'm based in INDIA
-* 🖥️  See my portfolio at [MyPortfolio](http://vamsiprofile.netlify.app)
+* 🖥️  See my portfolio at [MyPortfolio](https://brahmavamsia.netlify.app/)
 * ✉️  You can contact me at [brahmavamsi1234@gmail.com](mailto:brahmavamsi1234@gmail.com)
 * 🧠  I'm learning Backend Technologies
 * 🤝  I'm open to collaborating on web dev projects
